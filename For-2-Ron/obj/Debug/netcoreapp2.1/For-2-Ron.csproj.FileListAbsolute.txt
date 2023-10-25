@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\bin\Debug\netcoreapp2.1\For-2-Ron.deps.json
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\bin\Debug\netcoreapp2.1\For-2-Ron.runtimeconfig.json
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\bin\Debug\netcoreapp2.1\For-2-Ron.runtimeconfig.dev.json
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\bin\Debug\netcoreapp2.1\For-2-Ron.dll
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\bin\Debug\netcoreapp2.1\For-2-Ron.pdb
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\obj\Debug\netcoreapp2.1\For-2-Ron.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\obj\Debug\netcoreapp2.1\For-2-Ron.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\obj\Debug\netcoreapp2.1\For-2-Ron.AssemblyInfo.cs
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\obj\Debug\netcoreapp2.1\For-2-Ron.dll
+C:\Users\user\Desktop\For-2-Ron\For-2-Ron\obj\Debug\netcoreapp2.1\For-2-Ron.pdb
